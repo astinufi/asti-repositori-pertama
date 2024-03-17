@@ -1,3 +1,5 @@
 1. Daily routine terpenuhi
 2. Persisten Workout
 3. Nabung rutin
+4. persisten belajar coding
+-frontend, backend, dan fullstack dari roadmap.sh
